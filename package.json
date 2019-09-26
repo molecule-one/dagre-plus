@@ -1,10 +1,11 @@
 {
-  "name": "dagre",
+  "name": "dagre-plus",
   "version": "0.8.5-pre",
   "description": "Graph layout for JavaScript",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "contributors": [
-    "Matthew Dahl (https://github.com/sandersky)"
+    "Matthew Dahl (https://github.com/sandersky)",
+    "Szymon Pilkowski <szymon.pilkowski@gmail.com>"
   ],
   "license": "MIT",
   "main": "index.js",
@@ -40,6 +41,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagrejs/dagre.git"
+    "url": "https://github.com/molecule-one/dagre-plus.git"
   }
 }
